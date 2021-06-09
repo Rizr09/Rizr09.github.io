@@ -1,10 +1,22 @@
 #aaa {
-  height: 200px;
+  height: 275px;
 }
 
 .iconify {
-  height: 48px;
   color: white;
+}
+
+.about__img {
+  justify-self: center;
+}
+
+.footer__icon {
+  color: white;
+}
+
+.about__container {
+  row-gap: 2rem;
+  text-align: center;
 }
 
 section {
